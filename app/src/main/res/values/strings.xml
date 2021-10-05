@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="how_was_the_service">Como foi o serviço ?</string>
+    <string name="cost_of_service">Valor Do Serviço.</string>
+    <string name="amazing_20">Muito Bom (20%)</string>
+    <string name="good_18">Bom (18%)</string>
+    <string name="ok_15">Regular  (15%)</string>
+    <string name="round_up_tip">Aredondar caixinha</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Valor da caixinha</string>
+</resources>
